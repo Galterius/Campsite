@@ -1,0 +1,31 @@
+.figure{
+    padding: 0;
+    margin-bottom: 4px;
+}
+
+.text-left{
+    padding: 0 9px;
+}
+
+.figure-caption{
+    padding: 0 9px;
+}
+
+.btn-warning{
+    margin-left: 9px;
+}
+
+.deleteForm{
+    display: inline;
+}
+.pad{
+    margin-top: 4px;
+}
+
+.float-right{
+    margin-left: 4px;
+}
+
+.alert{
+    margin-top: 9px;
+}
